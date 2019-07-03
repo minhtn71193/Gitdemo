@@ -14,3 +14,5 @@ Local      Git repository
 A ->       A
 B ->       B
 Ctrl + C
+
+:wq
